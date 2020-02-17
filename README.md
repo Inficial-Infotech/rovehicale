@@ -1,6 +1,6 @@
-# rovehiclefinal
+# rovehicle
 
-A new Flutter application.
+Vehicle rental system
 
 ## Getting Started
 
